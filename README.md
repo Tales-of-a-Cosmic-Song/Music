@@ -2,18 +2,18 @@
 
 Music from Tales of a Cosmic Song, also available on [Spotify](https://open.spotify.com/artist/250gCnFXPIhciGIN40eBSd?si=iyTen3UwT3ST4bEDsclZrA/), [Bandcamp](https://talesofacosmicsong.bandcamp.com/) and [SoundCloud](https://soundcloud.com/tales_oacs/).
 
-# Releases
+# Albums
 
-## 2018 - Madness
+## [2018 - Madness](<2018 - Madness/>)
 
 Album released in 2018 with my first electronic music experimentations, mostly atmospheric, accompanied by a series of edited pictures to accompany each song as well as a digipack release.
 
-## 2021 - Crumbling Path
+## [2021 - Crumbling Path](<2021 - Crumbling Path/>)
 
 Album released in 2021, using more advanced sound effects than the previous album.
 The tracks go from a rather atmospheric start towards a more aggressive and chaotic end.
 
-## 2021 - Descent
+## [2021 - Descent](<2021 - Descent>)
 
 Album released in 2021, the most simple of all the albums so far, containing only two slow and atmospheric tracks using mostly piano.
 
