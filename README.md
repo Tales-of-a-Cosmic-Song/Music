@@ -19,7 +19,7 @@ Album released in 2021, the most simple of all the albums so far, containing onl
 
 # License
 
-Music © 2018-present by Tales of a Cosmic Song is licensed under CC-BY-SA-4.0
+Music © 2018-present by Tales of a Cosmic Song is licensed under CC-BY-4.0
 
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
